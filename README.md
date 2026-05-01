@@ -13,11 +13,11 @@
 ```bash
 termux-setup-storage
 ```
-## file Big setup
+## file Small setup
 ```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/main/setup-small.sh | bash
 ```
-## file small setup
+## file Big setup
 ```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/refs/heads/main/setup-big.sh | bash
 ```
