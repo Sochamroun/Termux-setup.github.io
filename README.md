@@ -13,9 +13,13 @@
 ```bash
 termux-setup-storage
 ```
-## Next file Setup និង update system 
+## file Big setup
 ```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/main/setup.sh | bash
+```
+## file small setup
+```bash
+curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/d9d6351787ddcec26aed997cb3d03ffc03c699da/setupsmall.sh | bash
 ```
 ## 🤩 copy paste and enter 
 ## setup wait សុំមេត្តារង់ចាំ
