@@ -7,12 +7,12 @@
 [💼 Play Store Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
 ## 🤪 Open termux 
 ---
-### Copy cmd 
+### Copy cmd ទាំងអស់
 #### allow storage
 ```bash
 termux-setup-storage
 ```
-## Next 
+## Next file Setup
 ```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/main/setup.sh | bash
 ```
