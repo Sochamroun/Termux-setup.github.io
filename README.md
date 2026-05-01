@@ -23,6 +23,18 @@ curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/d9d
 ```
 ## 🤩 copy paste and enter 
 ## setup wait សុំមេត្តារង់ចាំ
+## ចំណុចសំខាន់ របស់ big setup និង small setup 
+## big setup
+
+- `🎬 Download video`
+- `🎧 download music`
+- `🌐 open FTP localhost`
+- `🖥️ desktop mod`
+- `💽3Gb File Size`
+## small setup
+- `🎬 Download video`
+- `🎧 download music`
+- `🌐 open FTP localhost`
 ## 📦 Commands (use this to show files)
 
 - `video.sh` → Download videos 🎬  
