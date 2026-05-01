@@ -5,3 +5,16 @@
 [📺 Download Termux:X11](https://github.com/termux/termux-x11/tags)
 ## 🔗 Download Material Files
 [💼 Play Store Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
+## 🤪 Open termux 
+---
+### Copy cmd 
+#### allow storage
+```bash
+termux-setup-storage
+```
+## Next 
+```bash
+curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/main/setup.sh | bash
+```
+## 🤩 copy paste and enter 
+## setup
