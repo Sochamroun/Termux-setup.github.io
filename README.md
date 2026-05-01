@@ -42,7 +42,7 @@ curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/ref
 - `ftp.sh` → Start FTP server 📡  
 - `win.sh` → Start XFCE desktop 🖥️
 ## សំណាក់ល្អ ❤️ អរគុណដែលបានមើល ✅
-## Facebook hang slow support 
+## Facebook hang slow  
 [❤️ link Profile 👾](https://www.facebook.com/share/18MeFbhuB3/)
 ### Bye 🫡
 ![image alt](https://github.com/Sochamroun/Termux-setup.github.io/blob/91ceb7d192d13822a5ec2fe65917a38c621bf60f/Bye%20bye%20%20can%C4%B1m.jpeg)
