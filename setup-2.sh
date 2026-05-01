@@ -98,11 +98,10 @@ echo "User: user | Password: 12345"
 
 python -m pyftpdlib -p 2121 -u user -P 12345 -d /storage/emulated/0 -w
 EOF
-
 chmod +x ~/ftp.sh
 
-##Emm
-
+## Emm
+## hi
 echo ""
 echo "✅ Setup Complete!"
 echo "--------------------------------"
