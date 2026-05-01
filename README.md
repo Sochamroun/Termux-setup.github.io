@@ -54,6 +54,7 @@ curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/ref
 - `ftp.sh` → Start FTP server 📡  
 - `win.sh` → Start XFCE desktop 🖥️
 ## សំណាក់ល្អ ❤️ អរគុណដែលបានមើល ✅
+## Good luck 🤞 🥰
 ## Facebook hang slow  
 [❤️ link Profile 👾](https://www.facebook.com/share/18MeFbhuB3/)
 ### Bye 🫡
