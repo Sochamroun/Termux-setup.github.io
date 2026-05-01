@@ -15,11 +15,11 @@ termux-setup-storage
 ```
 ## file Big setup
 ```bash
-curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/main/setup-1.sh | bash
+curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/main/setup-small.sh | bash
 ```
 ## file small setup
 ```bash
-curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/refs/heads/main/setup-2.sh | bash
+curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/refs/heads/main/setup-big.sh | bash
 ```
 ## 🤩 copy paste and enter 
 ## setup wait សុំមេត្តារង់ចាំ
