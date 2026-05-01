@@ -110,5 +110,4 @@ echo "Commands (use this to show files)"
 echo "video.sh   → Download videos 🎬"
 echo "song.sh    → Download audio 🎵"
 echo "ftp.sh     → Start FTP server 📡""
-echo "ftp.sh     → Start FTP server 📡"
 
