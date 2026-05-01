@@ -1,5 +1,5 @@
-# សួស្តី
-# Hello everyone 
+# សួស្តី 🤗
+# Hello everyone 🤔
 ## 🔗 Download Termux App
 [👉 Open Termux ](https://github.com/termux/termux-app/tags)
 ## 🔗 Download Termux x11
@@ -13,16 +13,16 @@
 ```bash
 termux-setup-storage
 ```
-## file Small setup
+## file Small setup 😀
 ```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/main/setup-small.sh | bash
 ```
-## file Big setup
+## file Big setup 🤔
 ```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/refs/heads/main/setup-big.sh | bash
 ```
 ## 🤩 copy paste and enter 
-## setup wait សុំមេត្តារង់ចាំ
+## setup wait សុំមេត្តារង់ចាំ 🫠
 ## ចំណុចសំខាន់ របស់ big setup និង small setup 
 ## big setup
 
@@ -30,16 +30,17 @@ curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/ref
 - `🎧 download music`
 - `🌐 open FTP localhost`
 - `🖥️ desktop mod`
-- `💽3Gb File Size`
+- `💽 3Gb File Size`
 ## small setup
 - `🎬 Download video`
 - `🎧 download music`
 - `🌐 open FTP localhost`
-## 📦 Commands (use this to show files)
-
+- `💽 1.5Gb`
+## 📦 Commands (use this to showCommands
 - `video.sh` → Download videos 🎬  
 - `song.sh` → Download audio 🎵  
 - `ftp.sh` → Start FTP server 📡  
 - `win.sh` → Start XFCE desktop 🖥️
+## សំណាក់ល្អ ❤️ អរគុណដែលបានមើល ✅
 ## Facebook hang slow support 
 [❤️ link Profile 👾](https://www.facebook.com/share/18MeFbhuB3/)
