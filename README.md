@@ -6,7 +6,19 @@
 [📺 Download Termux:X11](https://github.com/termux/termux-x11/tags)
 ## 🔗 Download Material Files
 [💼 Play Store Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
-## 🤪 Open termux 
+# 🚀 Termux All-in-One Setup
+
+ Tool ពិសេសៗក្នុង Termux install ដោយស្វ័យប្រវត្តិ។
+
+## ✨ លក្ខណៈពិសេស (Features)
+* 📦 **Auto-Update & Install**: ដំឡើង Package សំខាន់ៗ (Python, Git, NodeJS,...)។
+* 🐚 **Fish Shell**: កំណត់យក Fish shell ដែលមាន auto-suggestion ងាយស្រួលវាយកូដ។
+* 🎬 **Video Downloader**: ទាញយកវីដេអូកម្រិត 720p ពី YouTube និងបណ្ដាញសង្គមផ្សេងៗ។
+* 🎵 **Audio Downloader**: បំប្លែងវីដេអូទៅជា MP3 (256k) ដោយស្វ័យប្រវត្តិ។
+* 📡 **FTP Server**: បង្កើត Server ដើម្បីបញ្ជូន File រវាងទូរស័ព្ទ និងកុំព្យូទ័រ។
+
+## 📥 របៀបដំឡើង (Installation)
+បើកកម្មវិធី Termux រួចចម្លង Command ខាងក្រោមទៅរត់៖
 ---
 ### Copy cmd ទាំងអស់
 #### allow storage
