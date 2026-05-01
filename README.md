@@ -36,7 +36,9 @@ curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/ref
 - `🎧 download music`
 - `🌐 open FTP localhost`
 - `💽 1.5Gb`
-## 📦 Commands (use this to showCommands
+## 📦 Commands សម្រាប់ប្រើ 
+### Bye 🫡
+
 - `video.sh` → Download videos 🎬  
 - `song.sh` → Download audio 🎵  
 - `ftp.sh` → Start FTP server 📡  
