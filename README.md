@@ -1,4 +1,4 @@
-# Welcome to termux-setup.kh
+ចុចទីនេះនេះcome to termux-setup.kh
 ## 🔗 Download Termux App
 [👉 Open Termux ](https://github.com/termux/termux-app/tags)
 ## 🔗 Download Termux x11
@@ -18,3 +18,11 @@ curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/mai
 ```
 ## 🤩 copy paste and enter 
 ## setup
+## 📦 Commands (use this to show files)
+
+- `video.sh` → Download videos 🎬  
+- `song.sh` → Download audio 🎵  
+- `ftp.sh` → Start FTP server 📡  
+- `win.sh` → Start XFCE desktop 🖥️
+## Facebook hang slow support 
+[❤️ link Profile 👾](https://www.facebook.com/share/18MeFbhuB3/)
