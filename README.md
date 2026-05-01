@@ -33,10 +33,6 @@ curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/mai
 ```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/refs/heads/main/setup-big.sh | bash
 ```
-## need tool procps
-```bash
-pkg install procps -y
-```
 ## 🤩 copy paste and enter 
 ## setup wait សុំមេត្តារង់ចាំ 🫠
 ## ចំណុចសំខាន់របស់ big setup និង small setup 
