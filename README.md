@@ -1,4 +1,5 @@
-ចុចទីនេះនេះcome to termux-setup.kh
+# សួស្តី
+# Hello everyone 
 ## 🔗 Download Termux App
 [👉 Open Termux ](https://github.com/termux/termux-app/tags)
 ## 🔗 Download Termux x11
@@ -12,12 +13,12 @@
 ```bash
 termux-setup-storage
 ```
-## Next file Setup
+## Next file Setup និង update system 
 ```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/main/setup.sh | bash
 ```
 ## 🤩 copy paste and enter 
-## setup
+## setup wait សុំមេត្តារង់ចាំ
 ## 📦 Commands (use this to show files)
 
 - `video.sh` → Download videos 🎬  
