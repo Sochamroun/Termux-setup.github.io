@@ -9,7 +9,7 @@ yes | pkg update && yes | pkg upgrade
 # Install packages
 yes | pkg install python ffmpeg git tmux wget unzip iproute2 libqrencode cloudflared fish nodejs net-tools nano -y
 yes | pkg install x11-repo -y
-yes | pkg install termux-x11-nightly xfce4 xfce4-terminal dbus -y
+yes | pkg install termux-x11-nightly gimp xfce4 xfce4-terminal dbus -y
 yes | pkg install firefox chromium -y 
 yes | pkg install pulseaudio pavucontrol -y 
 yes | pkg install mesa-demos -y 
