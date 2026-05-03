@@ -53,6 +53,23 @@ curl -sL https://raw.githubusercontent.com/Sochamroun/Termux-setup.github.io/ref
 - `song.sh` → Download audio 🎵  
 - `ftp.sh` → Start FTP server 📡  
 - `win.sh` → Start XFCE desktop 🖥️
+## bugs in termux [Process completed (signal 9)]
+- `crashes on Android 12+ due to FLAG_IMMUTABLE, storage permission issues on newer Android versions, and "Process completed (signal 9)" due to battery optimization killing background processes.`
+## To fix install 
+[Install ADB shell](https://play.google.com/store/apps/details?id=com.bat.adb)
+- `1.Tap Start via Wireless Debugging`
+- `2.Go to:`
+- `3.Settings → Developer Options`
+   - `Enable:Wireless debugging`
+- `4.Pair device (enter code shown)`
+## Open adb shell app
+- `cick to Terminal Open ADB Shell`
+## Copy cmd to run 
+```bash
+settings put global settings_enable_monitor_phantom_procs false
+```
+### now termux run Linux smooth 
+---
 ## សំណាក់ល្អ ❤️ អរគុណដែលបានមើល ✅
 ## Good luck 🤞 🥰
 ## Facebook hang slow  
